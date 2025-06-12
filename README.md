@@ -1,2 +1,2 @@
-# PYP
-A groceries management system using Python
+# Abstract
+This project presents a Python-based Groceries Management System developed for FRESHO Sdn Bhd to streamline online and offline grocery operations. The system enables administrators to manage inventory, track orders, and register users, while customers can browse groceries, place orders, and make payments. Featuring a menu-driven interface and multiple user roles, the system aims to enhance retail efficiency, reduce manual workload, and improve customer convenience in an increasingly digital marketplace.
